@@ -1,4 +1,4 @@
-# Salesforce_Superbadge
+# Salesforce_Apex Specialist and Process Automation Superbadge
 Apex Specialist and Process Automation Specialist for Developer Role
 [Park Service]
 public class ParkService {
